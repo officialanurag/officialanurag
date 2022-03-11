@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @officialanurag
 - 👀 I’m interested in technical research, new developments.
-- 🌱 I’m currently working as Software Engineer at Factset Systems, Hyderabad.
+- 🌱 I’m currently working as Software Engineer at Microsoft.
 - 💞️ I’m looking to collaborate on technical research, developments and hackathons.
 - 📫 Reach me at officialanurag1995@gmail.com
 
